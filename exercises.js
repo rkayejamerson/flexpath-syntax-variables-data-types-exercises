@@ -107,7 +107,7 @@ function exercise_05() {
 
     1. Create a variable named 'isAvailable' with a Boolean value of 'true'
     2. Then, toggle the value of 'isAvailable' using the `!` (not) operator.
-        Assign this new value back to the 'isAvailable' variable.
+        Assign this new value back to the 'isAvailable' variable and log it.
 
   */
 
